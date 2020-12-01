@@ -1,20 +1,17 @@
-# pokemon-meliuz
+# User-task
 
 ## Introduction
 
-These project represents an api that is used to list pokemons and create teams. Technical test for Meliuz, by Mateus Sens.
+These project represents an api that is used to list users and user's task. Technical test for Smarket, by Mateus Sens.
 
-I used python 3.8 and DjangoRestFramework to build this API. Firstly, I consider python a very good language for building crud APIs and with DRF I can use less code to build a good API. In addition, I chose to use postgres to store all the data created in the system, because for me postgres is the best relational database today for this type of API.
+I used python 3.8 and DjangoRestFramework to build this API.
 
 technical debt:
 - Authentication
-- Pokemon table use uuid instead of serial id , i used serial because the json which was send to me is in numerical id.
-
-At the moment it was what I thought for this implementation, but we can certainly find more resources to increase this API.
 
 ## Dependencies
 
-All dependencies and your versions is in [requirements.txt [click here]](https://github.com/mateussens/pokemon-meliuz/blob/main/requirements.txt)
+All dependencies and your versions is in [requirements.txt [click here]](https://github.com/mateussens/user-task-server/blob/master/requirements.txt)
 
 ## Contributors
 
