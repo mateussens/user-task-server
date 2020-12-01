@@ -1,0 +1,14 @@
+*.egg-info
+*.pot
+*.py[co]
+*.orig
+*.fdb
+.coverage
+__pycache__
+__pycache__/
+/.idea/
+.idea/
+/coverage/
+.coverage/
+/static/
+.static/
